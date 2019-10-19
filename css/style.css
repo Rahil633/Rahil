@@ -1,0 +1,45 @@
+body{
+  background-color: aqua;
+
+}
+.boat{
+  background-color: bisque;
+
+}
+.circular{
+  border-radius: 100%;
+}
+img:hover{
+  background-color: lime;
+}
+h1
+{
+  color: fuchsia;
+  font-style: italic;
+  font-size: 60px;
+}
+h2
+{
+  color: sandybrown;
+  font-style:normal;
+  font-size: 40px;
+}
+h3
+{
+  color: forestgreen;
+  font-style:normal;
+  font-size: 20px;
+}
+h4
+{
+  color:orangered ;
+  font-style:normal;
+  font-size: 30px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+width: 20%;
+border-color: lawngreen;
+  border-width: 5px;
+}
